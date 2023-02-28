@@ -1,6 +1,6 @@
-<h1> Website with Menu </h1>
+<h1> Website Sample with Menu </h1>
 
-Website with menu
+Basic website sample with menu
 
 <h2> Used Technologies </h2>
 
